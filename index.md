@@ -21,7 +21,7 @@ affiliation: "University of Wisconsin - Madison"
 venue: "ACM CCS 2025"
 award: "🏆 Distinguished Paper Award"
 equal_contribution: "*Indicates Equal Contribution"
-paper_url: "https://arxiv.org/pdf/2411.07441"
+paper_url: "https://dl.acm.org/doi/10.1145/3719027.3765191"
 code_url: ""
 #arxiv_url: "https://arxiv.org/abs/2411.07441"
 dataset_urls:
